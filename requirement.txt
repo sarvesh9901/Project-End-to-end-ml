@@ -3,3 +3,5 @@ pandas
 python-dotenv
 mysql-connector-python
 pymysql
+catboost
+xgboost
